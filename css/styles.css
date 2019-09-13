@@ -1,0 +1,16 @@
+
+body{
+    min-width: 320px;
+}
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+@media(max-width: 423px){
+    button.btn-outline-dark{
+        margin-top: 5px;
+    }
+}
+
